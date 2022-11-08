@@ -8,6 +8,9 @@ I've always found it annoying to constantly look for prices using the transfer m
 ![Screenshot 1](/phone1.png)
 ![Screenshot 2](/phone2.png)
 
+## Price source?
+The prices are fetched and stored on a FUTPricer server. If the requested price is outdeted, it is fetched from several FUT websites (randomly, excluding down websites) and cached for 15 minutes. The app follows the accepted web scraping guidelines.
+
 ## Source Code?
 I'd like to keep it private for now.
 
