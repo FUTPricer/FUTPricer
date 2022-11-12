@@ -1,6 +1,10 @@
 # FUT Pricer :coin:
 Price your FIFA Ultimate Team cards using your mobile phone.
 
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
+      alt="Download from Google Play"
+      height="80">](https://play.google.com/store/apps/details?id=com.futpricer.futpricer)
+
 ## Why we need this
 I've always found it annoying to constantly look for prices using the transfer market or online websites. This method saves time :stopwatch:.
 
